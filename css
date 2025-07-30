@@ -1,0 +1,26 @@
+header, nav, main, footer{
+    padding-top: 10px;
+}
+header {
+    height: 100px;
+    background-color: #C04E3F;
+    color: #fff;
+}
+
+nav {
+    height: 80px;
+    background-color: #5C85D6;
+    color: #fff;
+}
+
+main {
+    height: 400px;
+    background-color: #F4A04B;
+    color: #fff;
+}
+
+footer {
+    height: 60px;
+    background-color: #4BAE94;
+    color: #fff;
+}
