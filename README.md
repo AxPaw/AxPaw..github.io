@@ -1,4 +1,24 @@
- <head>ヘッダー</head>
-  <h1>ナビゲーション</h1>
-  <contents>メインコンテンツ</contents>
-  <footer>フッター</footer>
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+     <meta charset="UTF-8">
+     <title>Layout Practice</title>
+     <link rel="stylesheet" href="styles.css">
+ </head>
+<body>
+    <header>
+        <h1>ヘッダー</h1>
+    </header>
+    <nav>
+        <h2>ナビゲーション</h2>
+    </nav>
+    <main>
+       <section>
+           <h2>コンテンツ</h2>
+       </section>
+    </main>
+    <footer>
+        <h2>フッター</h2>
+    </footer>
+</body>
+</html>
