@@ -15,6 +15,7 @@ nav {
 main {
     height: 400px;
     display: flex;
+    justify-content: space-around;
 }
 
 .left-menu {
