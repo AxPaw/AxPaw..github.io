@@ -14,8 +14,6 @@ nav{
 main{
     height: 400px;
     display: flex;
-    justify-content: space-around;
-    colore: #fff;
 }
 .left-menu{
     background-color: #E8A1C1;
