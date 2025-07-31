@@ -1,35 +1,29 @@
-
-header {
+header{
     height: 100px;
     background-color: #A1B3D1;
-    color: #fff;
     padding-top: 10px;
 }
-
-nav {
+nav{
     height: 100px;
     background-color: #61D3FC;
-    color: #fff;
     padding-top: 10px;
 }
-
-main {
+main{
     height: 600px;
     display: flex;
     justify-content: space-around;
 }
-
-aside {
+aside{
     background-color: #EF598D;
-     wigth: 30%
+    width: 30%
 }
-
-section {
+section{
     background-color: #FFDA63;
-    wigth: 70%
-
-footer {
+    width: 70%
+}
+footer{
     height: 200px;
     background-color: #A1B3D1;
     padding-top: 10px;
 }
+
