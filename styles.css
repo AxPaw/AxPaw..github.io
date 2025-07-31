@@ -1,29 +1,36 @@
+header, nav, main, footer{
+    padding: 20px;
+    colore: #fff;
+}
+
 header{
     height: 100px;
-    background-color: #A1B3D1;
-    padding-top: 10px;
+    background-color: #C04E3F;
 }
 nav{
-    height: 100px;
-    background-color: #61D3FC;
-    padding-top: 10px;
+    height: 80px;
+    background-color: #5C85D6;
 }
 main{
-    height: 600px;
+    height: 400px;
     display: flex;
     justify-content: space-around;
+    colore: #fff;
 }
 aside{
-    background-color: #EF598D;
-    width: 30%
+    background-color: #E8A1C1;
+    width: 20%
 }
 section{
-    background-color: #FFDA63;
-    width: 70%
+    background-color: #F4A04B;
+    width: 60%
+}
+bside{
+    background-colore: #4BAE94
+    width: 20%
 }
 footer{
     height: 200px;
     background-color: #A1B3D1;
-    padding-top: 10px;
 }
 
