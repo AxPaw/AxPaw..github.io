@@ -1,16 +1,16 @@
-header, nav, main, footer{
-    padding-top: 10px;
-}
+
 header {
     height: 100px;
     background-color: #C04E3F;
     color: #fff;
+    padding-top: 10px;
 }
 
 nav {
-    height: 80px;
+    height: 100px;
     background-color: #5C85D6;
     color: #fff;
+    padding-top: 10px;
 }
 
 main {
@@ -29,7 +29,7 @@ section {
     wigh: 70%
 
 footer {
-    height: 60px;
-    background-color: #4BAE94;
-    color: #fff;
+    height: 200px;
+    background-color: #A1B3D1;
+    padding-top: 10px;
 }
