@@ -1,41 +1,46 @@
-
-header{
+header {
     height: 100px;
     background-color: #C04E3F;
     color: #fff;
     padding: 20px;
 }
-nav{
+
+nav {
     height: 80px;
     background-color: #5C85D6;
     color: #fff;
     padding: 20px;
 }
-main{
+
+main {
     height: 400px;
     display: flex;
 }
-.left-menu{
+
+.left-menu {
+    width: 20%;
     background-color: #E8A1C1;
-    width: 20%
     color: #fff;
     padding: 20px;
 }
-section{
+
+section {
+    width: 60%;
     background-color: #F4A04B;
-    width: 60%
     color: #fff;
     padding: 20px;
 }
-.right-menu{
-    background-colore: #4BAE94
-    width: 20%
+
+.right-menu {
+    width: 20%;
+    background-color: #4BAE94;
     color: #fff;
     padding: 20px;
 }
-footer{
+
+footer {
     height: 60px;
-    background-color: #A1B3D1;
+    background-color: #4BAE94;
     color: #fff;
     padding: 20px;
 }
