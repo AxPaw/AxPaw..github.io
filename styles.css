@@ -17,7 +17,7 @@ main{
     justify-content: space-around;
     colore: #fff;
 }
-aside{
+.left-menu{
     background-color: #E8A1C1;
     width: 20%
 }
@@ -25,7 +25,7 @@ section{
     background-color: #F4A04B;
     width: 60%
 }
-bside{
+.right-menu{
     background-colore: #4BAE94
     width: 20%
 }
