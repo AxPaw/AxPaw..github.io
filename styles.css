@@ -14,10 +14,19 @@ nav {
 }
 
 main {
-    height: 400px;
-    background-color: #F4A04B;
-    color: #fff;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
 }
+
+aside {
+    background-color: #EF598D;
+     wigth: 30%;
+}
+
+section {
+    background-color: #FFDA63;
+    wigh: 70%;
 
 footer {
     height: 60px;
