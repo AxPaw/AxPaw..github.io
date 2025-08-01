@@ -30,13 +30,13 @@ section {
     background-color: #EF598D;
     color: #fff;
     padding: 20px;
-    height: 400px; /* サイドバーがフッターまで伸びるように */
+    height: 540px; /* サイドバーがフッターまで伸びるように */
     box-sizing: border-box;
 }
 
 footer {
     display: flex;
-    margin-top: 20px; /* フッターの上にスペースを追加 */
+    margin-top: 10px; /* フッターの上にスペースを追加 */
 }
 
 .footer-section {
